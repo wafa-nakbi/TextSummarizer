@@ -1,0 +1,337 @@
+WEBVTT
+Kind: captions
+Language: en
+
+
+Hello everyone in this video
+
+
+We will be discussing top eight skills that you need in order to become successful data analyst
+
+
+these are the skills that they'll be asking during the
+
+
+Interview as well as once you become a data analyst if you have these skills
+
+
+you can really become successful in your career skill number one is
+
+
+excel
+
+
+Believe it or not microsoft excel is still widely used in the industry for doing data analysis
+
+
+And it is perfect for the small data set and if you have knowledge of excel formulas the vba formulas charting
+
+
+Pivot table different transpose techniques, etc
+
+
+You will
+
+
+Have an age compared to your peers skill number two is sql
+
+
+It is called structure query language now sql you can do in
+
+
+Mysql microsoft sql server oracle, there are different databases
+
+
+on which you can run structure query language
+
+
+To fetch the data to do different operations with that data and as a data analyst you are often involved in a data exploration
+
+
+Data collection and all those operations. So having sql skills will be
+
+
+extremely useful
+
+
+skill number three is
+
+
+You should know at least one visualization tool such as power bi or tableau
+
+
+These are the two most popular ones, but there are many out there in the industry. And if you have learnt at least one tool
+
+
+You can easily learn some other tools
+
+
+So if you are asking for me for my choice, I would go for other either power bi or tableau
+
+
+But once you have learned one tool, you can learn other tools easily
+
+
+these tools allow you to connect with the data sources and you can
+
+
+Pull that data into this visualization
+
+
+Tools and you can build a lot of useful dashboards. I have done one sales insight project using a power bi and
+
+
+If you look at that project series you will
+
+
+Figure out how how useful that tool is in terms of building
+
+
+Interactive dashboards. So once you build the dashboard, it will look more like an application
+
+
+you can also uh
+
+
+Export that dashboard as a mobile app. So when someone is looking at the mobile app, they can
+
+
+interact
+
+
+and they can
+
+
+Use various ui controls to fetch the data to fetch different reports and different
+
+
+Visualizations dashboards. So visualization till tool nowadays is extremely
+
+
+important
+
+
+Number four is communication and presentation skills
+
+
+When you are becoming a data analyst you are often talking with your business manager your engineering groups and different stakeholders
+
+
+and your job is to communicate the requirements or let's say gather the requirements in
+
+
+effective way and offer creative solutions
+
+
+you also need presentation skills because data as a data analyst you are telling your data story when you are building a
+
+
+Dashboard, let's say for sales insights. You are building a story around
+
+
+Sales are declining less a particular region, or they're increasing in
+
+
+Other region and what is the reason behind this?
+
+
+uh decline or behind the growth so
+
+
+telling that data story is important and
+
+
+Presentation skills is something uh that you need to master i'm gonna link some of video
+
+
+For how to master the presentation skills. It's called death by presentation. So if you are preparing any
+
+
+presentation make sure you watch that video and
+
+
+The idea is you should not
+
+
+Get your audience too much bored with your presentation and you should have an effective
+
+
+And engaging presentation. So that's very important skill number five is domain knowledge
+
+
+Often if you're looking at our data analyst job position
+
+
+They will say financial data analyst or retail data analyst
+
+
+what it means is if you have a degree in finance or let's say if you have
+
+
+done masters
+
+
+Or specialization in retail that domain knowledge is going to be extremely useful many times people ask me that
+
+
+I have to have a computer science degree in
+
+
+In order to become data analyst
+
+
+No
+
+
+You do not need computer science degree. In fact
+
+
+If you have specialization, let's say if you're done bachelor of commerce, and or or if you have a degree in
+
+
+finance
+
+
+Or let's say in retail or some industry
+
+
+Then that domain knowledge will be extremely useful because as a data analyst you are solving problems in particular domain
+
+
+And having that no
+
+
+Knowledge helps you do data analysis in an effective way
+
+
+the next skill which is
+
+
+Not very much required. There are many companies which do not ask for this skill is
+
+
+Programming. So nowadays python and r are two very popular programming languages
+
+
+I personally prefer python if you're just starting out just go with python
+
+
+Having programming knowledge will give you an edge over the computation. So if i'm hiring a data analyst I have two resumes
+
+
+exist same skills
+
+
+But let's say if one of the resumes have python, I would just go with that person or any other programming knowledge
+
+
+Because programming knowledge is not a must for a data analyst but it is a plus
+
+
+So if you have that it will definitely help you
+
+
+I have a nice tutorial playlist on python even a fifth grade student can learn from this tutorial playlist. So I have linked
+
+
+Again, that tutorial playlist in the video description below. You can check it out. You need to watch just first 15 or 16 videos and
+
+
+Python programming is so easy. And it's so convenient to learn that anyone can learn it. So if you have time, especially during lockdown
+
+
+Please learn python because it will be very very helpful. But as I said before
+
+
+Some of the companies do not ask for it
+
+
+So even if you don't have programming knowledge as a data analyst you might end up doing just okay
+
+
+the next skill is
+
+
+mathematics and statistics
+
+
+So when you're doing data analysis you are let's say looking at your data distribution
+
+
+You need to know what is normal distribution standard deviation to standard deviation how to remove outliers. So you need to have
+
+
+Basic math and statistics knowledge. You should know uh
+
+
+basics about inferential statistics and descriptive statistics
+
+
+You don't need to be super genius in math and statistics
+
+
+Okay, so just have basic knowledge
+
+
+And as you work on solving real life problems, you should try to enhance your knowledge in mathematics and statistics
+
+
+The last skill is problem solving now. This is a common sense approach
+
+
+It's a general skill where you need to be street smart and you need to be offering
+
+
+Different solution for a given problem. So there is no like one silver bullet that I can tell you or no?
+
+
+No, one magic trick that I can tell you to
+
+
+Improve your problem solving skill, but it's a general smartness that you need to have
+
+
+So I hope you like this video. All these eight skills are super important if you want to
+
+
+Get a data analyst job or if you want to become successful in your data analyst career
+
+
+I have another video where I have shown
+
+
+How you can learn data analysis skills for free where I have linked all the online resources
+
+
+and all of these resources are for free, so if you have enough motivation
+
+
+One computer and internet you can learn all these skills for free sitting at your home
+
+
+in this lockdown, so if you are thinking of
+
+
+Uh changing your career to data analysis. It's definitely a good idea
+
+
+There are so many jobs being open, uh for data analyst and I see many people
+
+
+Transitioning from let's say mechanical engineering or bcom or different
+
+
+Backgrounds to a data analyst career if that is something that excites you you should definitely consider this as an option
+
+
+I have a couple of videos on my channel where?
+
+
+A couple of mechanical engineers and become graduates
+
+
+Made a transition transition and they became a successful data analyst right now. They're working for some big companies
+
+
+So go watch those videos as well if you want to get some tips. I hope you like this. Thank you very much. Bye
+
