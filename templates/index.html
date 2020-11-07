@@ -1,0 +1,51 @@
+<!DOCTYPE HTML>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <title>Summarize</title>
+    <link href="{{ url_for('static', path='/styles.css') }}" rel="stylesheet">
+</head>
+
+<body>
+
+
+    <div class="title">
+        <span><h2>Text Summarizer</h2></span>
+
+    </div>
+    <h3>Text</h3>
+    <div class="textarea">
+
+        <form id='textForm' method='post'>
+
+                <textarea name="input_text"  placeholder="Copy and paste what you want to summarize here"  cols="100" rows="15">{{text}}</textarea>
+
+            <br><br>
+            <div id="summarydiv">
+                <label  for="summary_len">Summary length:</label>
+                <input type="number" id="summary_len" name="summary_len"
+       min="2" max=512>
+            </div>
+            <div id="beamsdiv">
+
+               <label for="beams">Number of beams:</label>
+                <input type="number" id="beams" name="beams"
+       min="1" max=5>
+            </div>
+
+
+
+            <input type="submit" name="Summarize" value="Summarize" id="btn">
+
+        </form>
+    </div>
+    <h3>Summary</h3>
+    <div class="textarea">
+    <textarea  cols="100" rows="10" readonly>{{summary}}</textarea>
+    </div>
+
+
+</body>
+
+</html>
