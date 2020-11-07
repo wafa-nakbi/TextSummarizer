@@ -8,7 +8,10 @@ def load_model(dir_path):
     tokenizer = T5Tokenizer.from_pretrained("t5-base")
     return loaded_model, tokenizer
 
-def generate_summary(text, model, tokenizer):
+def generate_summary(text,summary_len, beams, model, tokenizer):
+    text = str(text).replace('\n', '')
+    text = ' '.join(text.split())
+    text = 'summarize: '+ text
     source = tokenizer.prepare_seq2seq_batch(
         src_texts=text,
         max_length=512,
@@ -18,11 +21,12 @@ def generate_summary(text, model, tokenizer):
     attention_mask = source['attention_mask']
     summary = model.generate(input_ids=input_ids,
                              attention_mask=attention_mask,
-                             max_length=150,
-                             num_beams=3,
+                             max_length=summary_len,
+                             num_beams=beams,
+                             length_penalty = 2.0,
                              no_repeat_ngram_size=2,
                              early_stopping=True)
-    decoded_summary = tokenizer.decode(summary.numpy()[0])
+    decoded_summary = tokenizer.decode(summary.numpy()[0], skip_special_tokens=True)
     return decoded_summary
 
 if __name__ == '__main__':
